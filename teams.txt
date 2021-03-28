@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 cska1
 zenit2
 rostov3
+=======
+cska
+zenit
+rostov
+>>>>>>> branch1
